@@ -1,0 +1,17 @@
+{
+  "name": "wheelofnames-rfid",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "start": "tsx src/index.ts",
+    "lint": "eslint .",
+    "dev": "tsx watch --env-file=./.env src/index.ts"
+  },
+  "devDependencies": {
+    "@hazmi35/eslint-config": "^13.3.1",
+    "@tsconfig/node-lts": "^20.1.1",
+    "@types/node": "^20.11.24",
+    "tsx": "^4.7.1"
+  }
+}
