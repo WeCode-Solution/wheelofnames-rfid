@@ -1,7 +1,7 @@
 {
   "name": "wheelofnames-rfid",
   "version": "1.0.0",
-  "description": "",
+  "description": "A \"Wheel of Names\" automated with Artduino RFID Gimmick",
   "type": "module",
   "scripts": {
     "start": "tsx src/index.ts",
